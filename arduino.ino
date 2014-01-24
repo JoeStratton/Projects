@@ -2,6 +2,9 @@
 //Arizona State Univeristy -- Polytechnic
 //November 25, 2013
 //PRogram for LCD Screen/Fridge Control
+//Full Credit to 4D systems for there libraries and great touch screen serial displays
+
+
 #include <genieArduino.h>      //used for LCD serial com
 #include <SPI.h>               //breaks without this
 #include <Ethernet.h>         //ethernet shield library
